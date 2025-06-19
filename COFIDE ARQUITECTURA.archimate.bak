@@ -1202,9 +1202,9 @@
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="Technology TO BE" id="id-cdb4729752d64c8290b012771ae607ae">
       <child xsi:type="archimate:DiagramObject" id="id-28f75a97ba144483b348df70186db409" archimateElement="id-b829215d84a8470d88e2ba9bca5b096f">
-        <bounds x="-84" y="-36" width="1393" height="577"/>
+        <bounds x="-96" y="-36" width="1429" height="577"/>
         <child xsi:type="archimate:DiagramObject" id="id-347e1926a23849e8af902704124b4ea9" archimateElement="id-29bb0df05abb48799ffc1768ac2107d4">
-          <bounds x="240" y="36" width="469" height="205"/>
+          <bounds x="252" y="36" width="469" height="205"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-fb6324d0aa534a4aa457bc8d4bc4acdb" source="id-347e1926a23849e8af902704124b4ea9" target="id-c7fa0a96f9534ebe817be6829a0f0c00" archimateRelationship="id-1e2d11025ecb41da89be2da639a625bd"/>
           <child xsi:type="archimate:DiagramObject" id="id-c7fa0a96f9534ebe817be6829a0f0c00" targetConnections="id-fb6324d0aa534a4aa457bc8d4bc4acdb" archimateElement="id-8057e95332364b7683c433acc000f079">
             <bounds x="12" y="36" width="433" height="157"/>
